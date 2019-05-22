@@ -5,7 +5,8 @@ Onelabs Assignment
 https://www.foodbox.io/task
 
 ## How To
-Use test url.
-Correct url will give two images 
+Use test url. 
 
-Incorrect url will give error message
+Correct url will give two images.
+
+Incorrect url will give an error message
